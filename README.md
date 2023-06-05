@@ -1,6 +1,6 @@
-# ICSE 2024
+# Neural Embeddings for Web Testing
 
-Artifacts accompanying the paper *"Neural Embeddings for Web Testing"* submitted for publication at ICSE 2024.
+Artifacts accompanying the paper *"Neural Embeddings for Web Testing"* submitted for publication at the IEEE Transactions on Software Engineering (TSE).
 
 ## Overview
 
